@@ -3,12 +3,13 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: jmiranda <marvin@42quebec.com>             +#+  +:+       +#+         #
+#    By: jmiranda <jmiranda@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/06/09 00:20:42 by jmiranda          #+#    #+#              #
-#    Updated: 2022/10/26 15:25:34 by jmiranda         ###   ########.fr        #
+#    Updated: 2023/07/12 13:39:30 by jmiranda         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
+
 NAME   = libftprintf.a
 
 SRCS   = ft_printf.c \
