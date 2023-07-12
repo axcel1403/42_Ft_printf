@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_printf.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jmiranda <marvin@42quebec.com>             +#+  +:+       +#+        */
+/*   By: jmiranda <jmiranda@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/01 00:40:22 by jmiranda          #+#    #+#             */
-/*   Updated: 2022/07/15 23:43:24 by jmiranda         ###   ########.fr       */
+/*   Updated: 2023/07/12 13:27:42 by jmiranda         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 #include "ft_printf.h"
 
 static void	ft_putptr(size_t n, size_t base, char *hex_type, size_t *i)

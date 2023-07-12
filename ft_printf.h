@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_printf.h                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: jmiranda <marvin@42quebec.com>             +#+  +:+       +#+        */
+/*   By: jmiranda <jmiranda@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/06/09 00:13:00 by jmiranda          #+#    #+#             */
-/*   Updated: 2022/07/26 14:01:09 by jmiranda         ###   ########.fr       */
+/*   Updated: 2023/07/12 13:27:46 by jmiranda         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 #ifndef FT_PRINTF_H
 # define FT_PRINTF_H
 
